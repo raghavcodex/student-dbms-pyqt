@@ -1,7 +1,3 @@
-Here is your **final clean, professional README.md** (ready to paste into GitHub with no conflicts):
-
----
-
 # 🎓 Student Database Management System (PyQt5 + SQLite)
 
 A desktop-based Student Database Management System built using **Python (PyQt5)** and **SQLite3**.
